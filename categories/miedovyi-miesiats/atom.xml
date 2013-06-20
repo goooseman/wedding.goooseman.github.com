@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Свадьба]]></title>
-  <link href="http://wedding.goooseman.ru/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Медовый месяц | Свадьба]]></title>
+  <link href="http://wedding.goooseman.ru/categories/miedovyi-miesiats/atom.xml" rel="self"/>
   <link href="http://wedding.goooseman.ru/"/>
   <updated>2013-06-20T08:53:42+04:00</updated>
   <id>http://wedding.goooseman.ru/</id>
